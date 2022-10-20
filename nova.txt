@@ -1,1 +1,2 @@
 file latihan branch
+tambah baris ke-2.
