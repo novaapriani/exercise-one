@@ -1,1 +1,3 @@
 percobaan ketiga
+tambah baris melalui lokal
+mencoba menyelesaikan conflicts
